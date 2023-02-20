@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1676913290 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\actividades de la cursada de brian\archivo\ventakiosco\ventaskiosco\main.cpp
+	<iostream>
+	<windows.h>
+	"venta.h"
+	"ArchivoVenta.h"
+	"funciones.h"
+
+1676916099 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\actividades de la cursada de brian\archivo\ventakiosco\ventaskiosco\archivoventa.cpp
+	<iostream>
+	"ArchivoVenta.h"
+	"venta.h"
+
+1676913293 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\actividades de la cursada de brian\archivo\ventakiosco\ventaskiosco\archivoventa.h
+	"venta.h"
+
+1676913367 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\actividades de la cursada de brian\archivo\ventakiosco\ventaskiosco\venta.cpp
+	<iostream>
+	"venta.h"
+
+1676913351 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\actividades de la cursada de brian\archivo\ventakiosco\ventaskiosco\venta.h
+
+1676915947 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\actividades de la cursada de brian\archivo\ventakiosco\ventaskiosco\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"venta.h"
+	"ArchivoVenta.h"
+
+1676595782 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\actividades de la cursada de brian\archivo\ventakiosco\ventaskiosco\funciones.h
+
