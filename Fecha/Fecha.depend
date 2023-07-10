@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1688844444 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 2 (repaso objetos)\fecha\main.cpp
+	<iostream>
+	"Fecha.h"
+
+1688844561 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 2 (repaso objetos)\fecha\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<string>
+
+1688844247 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 2 (repaso objetos)\fecha\fecha.h
+	<string>
+
