@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1688949549 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 2 (repaso objetos)\listadetareas\lista de tareas\listadetareas.cpp
+	<iostream>
+	"ListaDeTareas.h"
+	"Tarea.h"
+	"Fecha.h"
+	<string>
+	"Funciones.h"
+
+1688863231 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 2 (repaso objetos)\listadetareas\lista de tareas\listadetareas.h
+	"Tarea.h"
+
+1688950090 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 2 (repaso objetos)\listadetareas\lista de tareas\main.cpp
+	<iostream>
+	"ListaDeTareas.h"
+	"Tarea.h"
+	"Fecha.h"
+	"Funciones.h"
+
+1688876861 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 2 (repaso objetos)\listadetareas\lista de tareas\tarea.cpp
+	"Tarea.h"
+	<iostream>
+	"Fecha.h"
+
+1688876883 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 2 (repaso objetos)\listadetareas\lista de tareas\tarea.h
+	"Fecha.h"
+	<string>
+
+1688844247 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 2 (repaso objetos)\listadetareas\lista de tareas\fecha.h
+	<string>
+
+1688873425 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 2 (repaso objetos)\listadetareas\lista de tareas\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<string>
+
+1688951633 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 2 (repaso objetos)\listadetareas\lista de tareas\funciones.cpp
+	<iostream>
+	"Tarea.h"
+	"Funciones.h"
+
+1688949744 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 2 (repaso objetos)\listadetareas\lista de tareas\funciones.h
+
