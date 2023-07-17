@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1689532106 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 3 (archivos)\hola mundo\holamundo\ciudad.cpp
+	"Ciudad.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1689532106 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 3 (archivos)\hola mundo\holamundo\ciudad.h
+
+1689606744 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 3 (archivos)\hola mundo\holamundo\funciones.cpp
+	"Funciones.h"
+	<iostream>
+	<string.h>
+	"Pais.h"
+	"Ciudad.h"
+	<cstdio>
+	"Funciones.h"
+
+1689605291 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 3 (archivos)\hola mundo\holamundo\funciones.h
+	"Pais.h"
+	"Ciudad.h"
+
+1689561022 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 3 (archivos)\hola mundo\holamundo\pais.cpp
+	"Pais.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1689561089 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 3 (archivos)\hola mundo\holamundo\pais.h
+
+1689606250 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 3 (archivos)\hola mundo\holamundo\holamundomenu.cpp
+	<iostream>
+	"HolaMundoMenu.h"
+	"Funciones.h"
+
+1689533683 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 3 (archivos)\hola mundo\holamundo\holamundomenu.h
+
+1689606726 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 3 (archivos)\hola mundo\holamundo\main.cpp
+	<iostream>
+	"Pais.h"
+	"Ciudad.h"
+	"HolaMundoMenu.h"
+	"Funciones.h"
+
