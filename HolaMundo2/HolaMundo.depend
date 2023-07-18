@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1689686487 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 3 (archivos)\hola mundo segunda parte\laboratorio2-main\laboratorio2-main\archivos\parte 1\holamundo\ciudad.cpp
+	"Ciudad.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1689630443 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 3 (archivos)\hola mundo segunda parte\laboratorio2-main\laboratorio2-main\archivos\parte 1\holamundo\ciudad.h
+
+1689614191 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 3 (archivos)\hola mundo segunda parte\laboratorio2-main\laboratorio2-main\archivos\parte 1\holamundo\pais.cpp
+	"Pais.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1689614191 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 3 (archivos)\hola mundo segunda parte\laboratorio2-main\laboratorio2-main\archivos\parte 1\holamundo\pais.h
+
+1689626350 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 3 (archivos)\hola mundo segunda parte\laboratorio2-main\laboratorio2-main\archivos\parte 1\holamundo\main.cpp
+	<iostream>
+	"Pais.h"
+	"Ciudad.h"
+	"Funciones.h"
+
+1689698646 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 3 (archivos)\hola mundo segunda parte\laboratorio2-main\laboratorio2-main\archivos\parte 1\holamundo\funciones.h
+	<string.h>
+	<string>
+	<iostream>
+	"Pais.h"
+	"Ciudad.h"
+
+1689699562 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 3 (archivos)\hola mundo segunda parte\laboratorio2-main\laboratorio2-main\archivos\parte 1\holamundo\funciones.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<string.h>
+	"Funciones.h"
+
