@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1689719196 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial1laboratorio\agenciatransito\agente.cpp
+	"Agente.h"
+	<cstring>
+
+1689719196 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial1laboratorio\agenciatransito\agente.h
+	<string>
+
+1689719196 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial1laboratorio\agenciatransito\agentearchivo.cpp
+	"AgenteArchivo.h"
+	<cstdio>
+
+1689719196 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial1laboratorio\agenciatransito\agentearchivo.h
+	"Agente.h"
+	<string>
+
+1689719196 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial1laboratorio\agenciatransito\fecha.cpp
+	<string>
+	"Fecha.h"
+
+1689719197 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial1laboratorio\agenciatransito\fecha.h
+	<string>
+
+1689775595 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial1laboratorio\agenciatransito\main.cpp
+	<iostream>
+	"Parcial.h"
+
+1689719197 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial1laboratorio\agenciatransito\multa.cpp
+	"Multa.h"
+	<string>
+	<cstring>
+
+1689719197 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial1laboratorio\agenciatransito\multa.h
+	<string>
+	"Fecha.h"
+
+1689719197 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial1laboratorio\agenciatransito\multaarchivo.cpp
+	"MultaArchivo.h"
+	<cstdio>
+
+1689719197 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial1laboratorio\agenciatransito\multaarchivo.h
+	"Multa.h"
+	<string>
+
+1689719197 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial1laboratorio\agenciatransito\multamanager.cpp
+	<iostream>
+	"MultaManager.h"
+
+1689719197 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial1laboratorio\agenciatransito\multamanager.h
+	"Multa.h"
+	"MultaArchivo.h"
+
+1689775720 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial1laboratorio\agenciatransito\parcial.cpp
+	<cstdio>
+	<clocale>
+	<iostream>
+	<string.h>
+	<string>
+	"Parcial.h"
+	"Agente.h"
+	"AgenteArchivo.h"
+	"Fecha.h"
+	"Multa.h"
+	"MultaArchivo.h"
+	"Funciones.h"
+
+1689734349 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial1laboratorio\agenciatransito\parcial.h
+
+1689734283 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial1laboratorio\agenciatransito\funciones.cpp
+	"Funciones.h"
+	<cstdio>
+	<clocale>
+	<iostream>
+	<string.h>
+	<string>
+	"Parcial.h"
+	"Agente.h"
+	"AgenteArchivo.h"
+	"Fecha.h"
+	"Multa.h"
+	"MultaArchivo.h"
+
+1689728665 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial1laboratorio\agenciatransito\funciones.h
+
