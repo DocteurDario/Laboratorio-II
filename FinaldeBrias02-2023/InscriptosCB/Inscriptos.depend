@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1689823637 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\finaldebrias02-2023\inscriptoscb\estudiante.cpp
+	<cstring>
+	<iostream>
+	"Estudiante.h"
+
+1689823637 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\finaldebrias02-2023\inscriptoscb\estudiante.h
+	<string>
+	"Fecha.h"
+
+1689823638 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\finaldebrias02-2023\inscriptoscb\fecha.h
+	<string>
+
+1689823638 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\finaldebrias02-2023\inscriptoscb\estudiantesarchivo.cpp
+	"EstudiantesArchivo.h"
+
+1689867030 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\finaldebrias02-2023\inscriptoscb\estudiantesarchivo.h
+	"Estudiante.h"
+
+1689823638 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\finaldebrias02-2023\inscriptoscb\fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1689868265 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\finaldebrias02-2023\inscriptoscb\examenefinal.cpp
+	"ExameneFinal.h"
+	"EstudiantesArchivo.h"
+	"Estudiante.h"
+	"Fecha.h"
+
+1689867053 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\finaldebrias02-2023\inscriptoscb\examenefinal.h
+	"Fecha.h"
+	<cstdio>
+	<clocale>
+	<iostream>
+	<string.h>
+	<string>
+
+1689823638 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\finaldebrias02-2023\inscriptoscb\main.cpp
+	<iostream>
+
