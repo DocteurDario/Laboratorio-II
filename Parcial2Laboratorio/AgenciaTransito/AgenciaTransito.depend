@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1689801716 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial2laboratorio\agenciatransito\agente.cpp
+	"Agente.h"
+	<cstring>
+
+1689801716 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial2laboratorio\agenciatransito\agente.h
+	<string>
+
+1689801716 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial2laboratorio\agenciatransito\agentearchivo.cpp
+	"AgenteArchivo.h"
+	<cstdio>
+
+1689801717 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial2laboratorio\agenciatransito\agentearchivo.h
+	"Agente.h"
+	<string>
+
+1689801717 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial2laboratorio\agenciatransito\fecha.cpp
+	<string>
+	"Fecha.h"
+
+1689801717 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial2laboratorio\agenciatransito\fecha.h
+	<string>
+
+1689811112 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial2laboratorio\agenciatransito\main.cpp
+	<iostream>
+	"Pago.h"
+	"Parcial.h"
+	"Parcial.h"
+	<cstdio>
+	<clocale>
+	<iostream>
+	<string.h>
+	<string>
+	"Agente.h"
+	"AgenteArchivo.h"
+	"Multa.h"
+	"MultaArchivo.h"
+	"MultaManager.h"
+	"Fecha.h"
+
+1689801717 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial2laboratorio\agenciatransito\multa.cpp
+	"Multa.h"
+	<string>
+	<cstring>
+
+1689801717 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial2laboratorio\agenciatransito\multa.h
+	<string>
+	"Fecha.h"
+
+1689801717 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial2laboratorio\agenciatransito\multaarchivo.cpp
+	"MultaArchivo.h"
+	<cstdio>
+
+1689801717 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial2laboratorio\agenciatransito\multaarchivo.h
+	"Multa.h"
+	<string>
+
+1689801717 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial2laboratorio\agenciatransito\multamanager.cpp
+	<iostream>
+	"MultaManager.h"
+
+1689801718 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial2laboratorio\agenciatransito\multamanager.h
+	"Multa.h"
+	"MultaArchivo.h"
+
+1689808773 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial2laboratorio\agenciatransito\parcial.cpp
+	"Parcial.h"
+	<cstdio>
+	<clocale>
+	<iostream>
+	<string.h>
+	<string>
+	"Agente.h"
+	"AgenteArchivo.h"
+	"Multa.h"
+	"MultaArchivo.h"
+	"MultaManager.h"
+	"Fecha.h"
+	"Pago.h"
+
+1689802734 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial2laboratorio\agenciatransito\parcial.h
+
+1689807281 c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial2laboratorio\agenciatransito\pago.h
+	"Fecha.h"
+
+1689807859 source:c:\users\brigi\onedrive\documentos\darío\programacion\laboratorio 2\final 2 con brian\vos podes\entrenamiento\ejercitacion 4 (parciales)\parcial2laboratorio\agenciatransito\pago.cpp
+	"Pago.h"
+	"Parcial.h"
+	<cstdio>
+	<clocale>
+	<iostream>
+	<string.h>
+	<string>
+	"Agente.h"
+	"AgenteArchivo.h"
+	"Multa.h"
+	"MultaArchivo.h"
+	"MultaManager.h"
+	"Fecha.h"
+
