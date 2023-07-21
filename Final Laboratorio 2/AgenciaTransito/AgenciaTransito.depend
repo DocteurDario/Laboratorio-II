@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1689886303 source:c:\users\brigi\downloads\parcial laboratorio 2\agenciatransito\agente.cpp
+	"Agente.h"
+	<cstring>
+
+1689886303 c:\users\brigi\downloads\parcial laboratorio 2\agenciatransito\agente.h
+	<string>
+
+1689886303 source:c:\users\brigi\downloads\parcial laboratorio 2\agenciatransito\agentearchivo.cpp
+	"AgenteArchivo.h"
+	<cstdio>
+
+1689886303 c:\users\brigi\downloads\parcial laboratorio 2\agenciatransito\agentearchivo.h
+	"Agente.h"
+	<string>
+
+1689886303 source:c:\users\brigi\downloads\parcial laboratorio 2\agenciatransito\fecha.cpp
+	<string>
+	"Fecha.h"
+
+1689886303 c:\users\brigi\downloads\parcial laboratorio 2\agenciatransito\fecha.h
+	<string>
+
+1689893495 source:c:\users\brigi\downloads\parcial laboratorio 2\agenciatransito\main.cpp
+	<iostream>
+	"Examen.h"
+	"Reclamo.h"
+
+1689886304 source:c:\users\brigi\downloads\parcial laboratorio 2\agenciatransito\multa.cpp
+	"Multa.h"
+	<string>
+	<cstring>
+
+1689886304 c:\users\brigi\downloads\parcial laboratorio 2\agenciatransito\multa.h
+	<string>
+	"Fecha.h"
+
+1689886304 source:c:\users\brigi\downloads\parcial laboratorio 2\agenciatransito\multaarchivo.cpp
+	"MultaArchivo.h"
+	<cstdio>
+
+1689886304 c:\users\brigi\downloads\parcial laboratorio 2\agenciatransito\multaarchivo.h
+	"Multa.h"
+	<string>
+
+1689886304 source:c:\users\brigi\downloads\parcial laboratorio 2\agenciatransito\multamanager.cpp
+	<iostream>
+	"MultaManager.h"
+
+1689886304 c:\users\brigi\downloads\parcial laboratorio 2\agenciatransito\multamanager.h
+	"Multa.h"
+	"MultaArchivo.h"
+
+1689892404 source:c:\users\brigi\downloads\parcial laboratorio 2\agenciatransito\reclamo.cpp
+	"Reclamo.h"
+	<cstdio>
+	<clocale>
+	<iostream>
+	<string.h>
+	<string>
+	"AgenteArchivo.h"
+	"Fecha.h"
+	"Multa.h"
+	"MultaArchivo.h"
+	"MultaManager.h"
+
+1689891912 c:\users\brigi\downloads\parcial laboratorio 2\agenciatransito\reclamo.h
+	"Fecha.h"
+	<cstdio>
+	<clocale>
+	<iostream>
+	<string.h>
+	<string>
+
+1689893530 source:c:\users\brigi\downloads\parcial laboratorio 2\agenciatransito\examen.cpp
+	"Examen.h"
+	"Reclamo.h"
+	<cstdio>
+	<clocale>
+	<iostream>
+	<string.h>
+	<string>
+	"AgenteArchivo.h"
+	"Fecha.h"
+	"Multa.h"
+	"MultaArchivo.h"
+	"MultaManager.h"
+
+1689891054 c:\users\brigi\downloads\parcial laboratorio 2\agenciatransito\examen.h
+
